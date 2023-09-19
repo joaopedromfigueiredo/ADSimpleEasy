@@ -3,7 +3,7 @@ ADSimpleEasy is a lightweight Active Directory manager with a graphical interfac
 
 Its aim is to simplify and facilitate actions in Active Directory, whether for tasks with a few or many users, with a simple, lightweight and intuitive graphical interface.
 
-ADSimpleEasy is software built by an Active Directory Manager for other Active Directory Managers to help and facilitate our day-to-day work, which is why it is and always will be completely free.
+ADSimpleEasy is software built by an Active Directory Manager for other Active Directory Managers to help and facilitate our day-to-day work.
 
 Available functions:
 
