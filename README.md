@@ -24,7 +24,7 @@ Install-Module -Name ImportExcel -Force
 
 Screenshots:
 - Tab Reports  <br/>
-![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/71ff1fa7-ef29-4fc7-b901-f63bfa1ac7c4)
+![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/c6684f5e-d500-4acf-9ebc-05e200fa7ce5)
 
 - Tab Edit Users  <br/>
 ![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/3ea3679d-ef7e-447f-af1c-5a9ed44c6d31)
@@ -41,3 +41,6 @@ Screenshots:
 - Tab Delete Users  <br/>
 ![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/e63d8ce2-7008-4b05-a574-4baed4a91a1e)
 
+<br/>
+
+Enjoy!
