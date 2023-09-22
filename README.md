@@ -12,6 +12,8 @@ Available functions:
 - Enable, Disable or Reset User Passwords in bulk
 - Add or Remove User Groups in bulk
 - Move users between OUs in bulk
+- Set Managers in Bulk.
+- Set Notes in Bulk.
 - Edit attributes in bulk
 - Match users in bulk
 - Create and Delete users in bulk
