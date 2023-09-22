@@ -27,13 +27,13 @@ Screenshots:
 ![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/c6684f5e-d500-4acf-9ebc-05e200fa7ce5)
 
 - Tab Edit Users  <br/>
-![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/3ea3679d-ef7e-447f-af1c-5a9ed44c6d31)
+![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/108fdab0-0784-4801-82e6-cff7b7baeaa6)
 
 - Tab User Attribute Editor  <br/>
 ![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/551f36d2-5f48-48fa-8ea6-59a1071f84ab)
 
 - Tab Match Users  <br/>
-![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/7d948ff6-813f-4232-b940-ba5dffb0a2b3)
+![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/83e187d2-f5d8-4256-99cb-c443147d7498)
 
 - Tab Create Users  <br/>
 ![image](https://github.com/joaopedromfigueiredo/ADSimpleEasy/assets/76779567/518eb674-866d-4d42-829a-61a069d34139)
